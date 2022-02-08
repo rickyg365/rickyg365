@@ -2,7 +2,8 @@
   
   <h1 align="center"> ⭐ Hi, I'm Ricky ⭐ </h1>
   
-  <br>
+  [![resume](https://raster.shields.io/badge/my-resume-2774AE?style=flat-square)](https://rickyg365.github.io/resume)
+  
   - 🌱 Learning -> React/Typescript
   <br>
 
@@ -13,8 +14,10 @@
   - [ ] Database Template Generator `Python SQL`
   - [ ] Utility Dashboard `Javascript React`
     
-  [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](./LICENSE.md)
-
-  [![sample](https:///raster.shields.io/badge/my-resume-success.svg)](https://github.com/rickyg365/rickyg365)
-
+<!--   <div align="center">
+     <a href="https://rickyg365.github.io/" >
+       <img src="https://raster.shields.io/badge/my-resume-2774AE?style=flat-square" alt="resume"/>
+     </a>
+  </div> -->
+    
 </body>
