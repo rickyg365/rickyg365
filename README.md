@@ -23,17 +23,17 @@
   ## 🔭 Currently Working on:
   
   ### Resume Template
-  > ![](https://raster.shields.io/badge/-JavaScript-grey?logo=javascript) ![](https://raster.shields.io/badge/-React-blue?logo=react)
+  > ![](https://raster.shields.io/badge/-JavaScript-grey.svg?logo=javascript&logoColor=white) ![](https://raster.shields.io/badge/-React-blue.svg?logo=react&logoColor=white)
   
   ### Utility Dashboard 
-   > ![](https://raster.shields.io/badge/-JavaScript-grey?logo=javascript) ![](https://raster.shields.io/badge/-React-blue?logo=react)
+   > ![](https://raster.shields.io/badge/-JavaScript-grey.svg?logo=javascript&logoColor=white) ![](https://raster.shields.io/badge/-React-blue.svg?logo=react&logoColor=white)
   
  
   ### Grocery Database 
-  > ![](https://raster.shields.io/badge/-Python-fa4?logo=Python) ![](https://raster.shields.io/badge/-SQL-acf?logo=mysql)
+  > ![](https://raster.shields.io/badge/-Python-fa4.svg?logo=Python&logoColor=black) ![](https://raster.shields.io/badge/-SQL-acf.svg?logo=mysql&logoColor=black)
   
   ### Database Template Generator 
-   > ![](https://raster.shields.io/badge/-Python-fa4?logo=Python) ![](https://raster.shields.io/badge/-SQL-acf?logo=mysql)
+   > ![](https://raster.shields.io/badge/-Python-fa4.svg?logo=Python&logoColor=black) ![](https://raster.shields.io/badge/-SQL-acf.svg?logo=mysql&logoColor=black)
     
   
 <!--   <div align="center">
