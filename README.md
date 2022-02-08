@@ -1,7 +1,7 @@
 <body>
   <br>
   
-  <h1> ⭐ Hello ⭐</h1>
+  <h1> ⭐ Hello ! ⭐</h1>
   
   #### Current Resume: [![resume](https://raster.shields.io/badge/-Resume-2774AE?style=flat-square)](https://rickyg365.github.io/resume)
   
