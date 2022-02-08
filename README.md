@@ -17,7 +17,7 @@
     
     [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](./LICENSE.md)
     
-  [![](https:///raster.shields.io/badge/my-resume-success)](https://www.google.com)
+    [![sample](https:///raster.shields.io/badge/my-resume-success)](https://github.com/rickyg365/rickyg365)
   </div>
   
 </body>
