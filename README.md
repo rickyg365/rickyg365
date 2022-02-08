@@ -1,6 +1,9 @@
 <body>
+  <br>
   
   <h1 align="center"> ⭐ Hello there, My name is Ricky ⭐</h1>
+  
+  <br>
   
   [![resume](https://raster.shields.io/badge/Current-Resume-2774AE?style=flat-square)](https://rickyg365.github.io/resume)
   
