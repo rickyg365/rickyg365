@@ -15,6 +15,6 @@
     
   [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](./LICENSE.md)
 
-  [![sample](https:///raster.shields.io/badge/my-resume-success)](https://github.com/rickyg365/rickyg365)
+  [![sample](https:///raster.shields.io/badge/my-resume-success.svg)](https://github.com/rickyg365/rickyg365)
 
 </body>
