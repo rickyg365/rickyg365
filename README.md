@@ -1,6 +1,6 @@
 <body>
   
-  # ⭐ Hi, I'm Ricky ⭐
+  <h1 align="center"> ⭐ Hi, I'm Ricky ⭐ </h1>
 
   - 🌱 Learning -> React/Typescript
   <br>
