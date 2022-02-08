@@ -12,12 +12,9 @@
   - [ ] Resume Template `Javascript React`
   - [ ] Database Template Generator `Python SQL`
   - [ ] Utility Dashboard `Javascript React`
+    
+  [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](./LICENSE.md)
 
-  <div>
-    
-    [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](./LICENSE.md)
-    
-    [![sample](https:///raster.shields.io/badge/my-resume-success)](https://github.com/rickyg365/rickyg365)
-  </div>
-  
+  [![sample](https:///raster.shields.io/badge/my-resume-success)](https://github.com/rickyg365/rickyg365)
+
 </body>
