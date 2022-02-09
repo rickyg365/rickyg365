@@ -1,7 +1,7 @@
 <body>
   <br>
   
-  <h1> ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐</h1>
+  <h1> ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐</h1>
   
   ## Current Resume -> [![resume](https://raster.shields.io/badge/Latest-Resume-2774AE?style=flat-square)](https://rickyg365.github.io/resume)
   
