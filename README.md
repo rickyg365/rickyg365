@@ -1,17 +1,17 @@
 <body>
   <br>
   
-  <h1> ⭐ Hello ! ⭐</h1>
+  <h1> ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐</h1>
   
-  #### Current Resume: [![resume](https://raster.shields.io/badge/-Resume-2774AE?style=flat-square)](https://rickyg365.github.io/resume)
+  ## Current Resume -> [![resume](https://raster.shields.io/badge/Latest-Resume-2774AE?style=flat-square)](https://rickyg365.github.io/resume)
   
   <br>
   
-  🌱 Focusing On -> 
+  🌱 Focusing On:
   ![](https://raster.shields.io/badge/-React-blue)
   ![](https://raster.shields.io/badge/-TypeScript-blueviolet)
   
-  ### Exploring: 
+  ### Exploring/Learning: 
   > ![](https://raster.shields.io/badge/-Flask-red) 
   ![](https://raster.shields.io/badge/-Rust-orange)
   ![](https://raster.shields.io/badge/-Django-green)
