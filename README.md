@@ -4,11 +4,6 @@
   <h1> ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐</h1>
   
   
-  
-  🌱 Focusing On:
-  ![](https://raster.shields.io/badge/-React-blue)
-  ![](https://raster.shields.io/badge/-TypeScript-blueviolet)
-  
   ## Exploring/Learning: 
   > ![](https://raster.shields.io/badge/-Flask-red?style=for-the-badge) 
   ![](https://raster.shields.io/badge/-Rust-orange?style=for-the-badge)
