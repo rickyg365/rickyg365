@@ -7,7 +7,6 @@
   ## Exploring/Learning: 
   > ![](https://raster.shields.io/badge/-Flask-red?style=for-the-badge) 
   ![](https://raster.shields.io/badge/-Rust-orange?style=for-the-badge)
-  ![](https://raster.shields.io/badge/-Django-green?style=for-the-badge)
   ![](https://raster.shields.io/badge/-React-blue?style=for-the-badge)
   ![](https://raster.shields.io/badge/-TypeScript-blueviolet?style=for-the-badge)
   ![](https://raster.shields.io/badge/-NodeJS-brown?style=for-the-badge)
