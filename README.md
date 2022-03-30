@@ -6,11 +6,11 @@
   
   ## Exploring/Learning: 
   > ![](https://raster.shields.io/badge/-Flask-red?style=flat) 
-  ![](https://raster.shields.io/badge/-Rust-orange?style=for-the-badge)
-  ![](https://raster.shields.io/badge/-React-blue?style=for-the-badge)
-  ![](https://raster.shields.io/badge/-TypeScript-blueviolet?style=for-the-badge)
-  ![](https://raster.shields.io/badge/-NodeJS-brown?style=for-the-badge)
-  ![](https://raster.shields.io/badge/-GraphQL-lightblue?style=for-the-badge)
+  ![](https://raster.shields.io/badge/-Rust-orange?style=flat)
+  ![](https://raster.shields.io/badge/-React-blue?style=flat)
+  ![](https://raster.shields.io/badge/-TypeScript-blueviolet?style=flat)
+  ![](https://raster.shields.io/badge/-NodeJS-brown?style=flat)
+  ![](https://raster.shields.io/badge/-GraphQL-lightblue?style=flat)
   
   <hr>
   
