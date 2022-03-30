@@ -1,7 +1,7 @@
 <body>
   <br>
   
-  <h1 align="center"> ⭐ Welcome ⭐</h1>
+  <h1 > ⭐ Welcome ⭐</h1>
   
   
   ## Exploring/Learning: 
