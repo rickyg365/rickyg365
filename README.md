@@ -4,7 +4,7 @@
   <h1 > ⭐ Welcome ⭐</h1>
   
   
-  ## Exploring/Learning: 
+  ## Technologies: 
   > ![](https://raster.shields.io/badge/-Flask-red?style=flat) 
   ![](https://raster.shields.io/badge/-Rust-orange?style=flat)
   ![](https://raster.shields.io/badge/-React-blue?style=flat)
