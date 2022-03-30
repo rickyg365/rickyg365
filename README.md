@@ -14,8 +14,8 @@
   
   <hr>
   
-  > ### Website --> [![website](https://raster.shields.io/badge/goto-Website-27A49E?style=for-the-badge)](https://rickyg365.github.io)
-  > ### Resume --> [![resume](https://raster.shields.io/badge/goto-Resume-2774AE?style=for-the-badge)](https://rickyg365.github.io/resume)
+  > ### Website --> [![website](https://raster.shields.io/badge/goto-Website-27A49E?style=flat)](https://rickyg365.github.io)
+  > ### Resume --> [![resume](https://raster.shields.io/badge/goto-Resume-2774AE?style=flat)](https://rickyg365.github.io/resume)
   
   <br>
 
