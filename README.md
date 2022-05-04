@@ -1,25 +1,18 @@
 <body>
-  <br>
   
-  <h1 > ⭐ Welcome ⭐</h1>
+  [![website](https://raster.shields.io/badge/-Personal%20Website-27A49E?style=round)](https://rickyg365.github.io)
+  [![blog](https://raster.shields.io/badge/-Blog-27A49E?style=round)](https://rickyg365.hashnode.dev/)
   
   
-  ## Technologies: 
-  > ![](https://raster.shields.io/badge/-Flask-red?style=flat) 
-  ![](https://raster.shields.io/badge/-Rust-orange?style=flat)
-  ![](https://raster.shields.io/badge/-React-blue?style=flat)
-  ![](https://raster.shields.io/badge/-TypeScript-blueviolet?style=flat)
-  ![](https://raster.shields.io/badge/-NodeJS-brown?style=flat)
-  ![](https://raster.shields.io/badge/-GraphQL-lightblue?style=flat)
+  ## Resources
   
-  <hr>
+  Website: https://rickyg365.github.io  
+      
+  Future Blog:  https://rickyg365.hashnode.dev/
   
-  > ### Website --> [![website](https://raster.shields.io/badge/goto-Website-27A49E?style=flat)](https://rickyg365.github.io)
-  > ### Resume --> [![resume](https://raster.shields.io/badge/goto-Resume-2774AE?style=flat)](https://rickyg365.github.io/resume)
-  
-  <br>
-
-  
+ 
+<!--   ### Resume -> [![resume](https://raster.shields.io/badge/goto-Resume-2774AE?style=flat)](https://rickyg365.github.io/resume) -->
+    
 <!--   <div align="center">
      <a href="https://rickyg365.github.io/" >
        <img src="https://raster.shields.io/badge/my-resume-2774AE?style=flat-square" alt="resume"/>
